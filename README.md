@@ -1,2 +1,2 @@
-# css_grids
+# CSS Grids
 Testing CSS grids
